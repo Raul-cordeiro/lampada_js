@@ -1,0 +1,28 @@
+.corpo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    border-radius: 100%;
+    background-color: black;
+    
+}
+.turnON{
+    border-radius: 100%;
+    color: brown;
+    background-color: chartreuse;
+    box-shadow: 1px 1px 1px 1px rgb(90, 242, 2) ;
+
+}
+.turnOff{
+    right: 250px;
+    border-radius: 100%;
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    box-shadow: 1px 1px 1px 1px rgb(242, 2, 2) ;
+}
+.cabeça{
+    text-align: center;
+    color: crimson;
+    font-size: 10mm;
+}
